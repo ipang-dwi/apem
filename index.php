@@ -1,4 +1,4 @@
 <?php
-	echo "apem 9x";
+	echo "apem 10x";
 	phpinfo();
 ?>
